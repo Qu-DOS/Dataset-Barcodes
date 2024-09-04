@@ -2,7 +2,7 @@
 Datasets used in the work [https://arxiv.org/abs/2409.01496](https://doi.org/10.48550/arXiv.2409.01496).
 
 ## Use of dataset
-The datasets are released under Creative Commons Attribution 4.0 International license. Please, use the following BibTex entry for citation:
+The datasets are released under MIT license. Please, use the following BibTex entry for citation:
 ```
 @misc{umeano2024geometricquantummachinelearning,
       title={Can Geometric Quantum Machine Learning Lead to Advantage in Barcode Classification?}, 
