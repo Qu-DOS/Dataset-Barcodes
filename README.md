@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/852125102.svg)](https://zenodo.org/doi/10.5281/zenodo.13683174)
 
-## Dataset-Forrelation
+## Dataset-Barcodes
 Datasets used in the work [https://arxiv.org/abs/2409.01496](https://doi.org/10.48550/arXiv.2409.01496).
 
 ## Use of dataset
